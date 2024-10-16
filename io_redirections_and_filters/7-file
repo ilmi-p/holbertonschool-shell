@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf Best School | cat \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+rm -rf *Best School* | cat \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
